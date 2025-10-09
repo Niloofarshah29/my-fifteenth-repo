@@ -1,4 +1,4 @@
-# my-fifteenth-repo
+# my-fifteenth-rep
 for testing
 def factorial(n):
     return 1 if n == 0 else n * factorial(n-1)
